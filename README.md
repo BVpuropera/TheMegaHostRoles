@@ -1,4 +1,4 @@
-# Town Of Host
+# TheMegaHostRoles
 
 ## <p align="center"><a href="https://github.com/BVpuropera/TheMegaHostRoles/releases/"><img src="https://badgen.net/github/release/BVpuropera/TheMegaHostRoles"></a></p>
 
