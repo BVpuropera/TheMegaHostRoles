@@ -11,7 +11,7 @@
 
 ## リリース
 
-AmongUsバージョン : **18**
+AmongUsバージョン : **17.0.0~18.0.0未満** （←暗転するのは許してください。）
 
 **最新版は[こちら](https://github.com/BVpuropera/TheMegaHostRoles/releases/latest)**
 
