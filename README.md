@@ -9,7 +9,7 @@
 
 ## リリース
 
-AmongUsバージョン : **18.0.0~**
+AmongUsバージョン : **19.0.0~**
 
 **最新版は[こちら](https://github.com/BVpuropera/TheMegaHostRoles/releases/latest)**
 
@@ -48,3 +48,5 @@ AmongUsバージョン : **18.0.0~**
 TownOfHost: フォークさせていただきました。
 
 TownOfHost-K: ジャッカルのサイドキックやニュースのパッチを移植しました。
+
+TownOfHost-Pko: ペット自動付与、ペットトリガーを追加しました。
