@@ -15,6 +15,10 @@ AmongUsバージョン : **19.0.0~**
 
 過去バージョンは[こちら](https://github.com/BVpuropera/TheMegaHostRoles/releases)
 
+Discordは[こちら]([https://wikiwiki.jp/tmhr/MenuBar](https://discord.gg/gMXDVgB2Dn))
+
+WikiWikiは[こちら](https://wikiwiki.jp/tmhr/MenuBar)
+
 ## 特徴
 
 この Mod はホストのクライアントに導入するだけで動作し、他のクライアントの Mod の導入/未導入及び端末の種類に関係なく動作します。<br>
