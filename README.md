@@ -56,3 +56,5 @@ TownOfHost-K: ジャッカルのサイドキックやニュースのパッチを
 TownOfHost-Pko: ペット自動付与、ペットトリガーを移植しました。
 
 TownOfHost-hamo: ミラージュのクローン作製プログラムを移植しました。
+
+SuperNewRoles: 一部役職を移植しました。
