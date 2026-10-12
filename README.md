@@ -18,7 +18,6 @@ AmongUsバージョン : **19.0.0~**
 Discordは[こちら](https://discord.gg/PeGdYQWxq)
 
 WikiWikiは[こちら](https://wikiwiki.jp/tmhr/MenuBar)
-
           [こちら](https://wikiwiki.jp/amonguas/TMHR)
 
 ## 特徴
