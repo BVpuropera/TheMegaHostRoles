@@ -15,7 +15,7 @@ AmongUsバージョン : **19.0.0~**
 
 過去バージョンは[こちら](https://github.com/BVpuropera/TheMegaHostRoles/releases)
 
-Discordは[こちら](https://discord.gg/gMXDVgB2Dn)
+Discordは[こちら](https://discord.gg/PeGdYQWxq)
 
 WikiWikiは[こちら](https://wikiwiki.jp/tmhr/MenuBar)
 
