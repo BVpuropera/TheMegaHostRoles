@@ -19,6 +19,8 @@ Discordは[こちら](https://discord.gg/PeGdYQWxq)
 
 WikiWikiは[こちら](https://wikiwiki.jp/tmhr/MenuBar)
 
+          [こちら](https://wikiwiki.jp/amonguas/TMHR)
+
 ## 特徴
 
 この Mod はホストのクライアントに導入するだけで動作し、他のクライアントの Mod の導入/未導入及び端末の種類に関係なく動作します。<br>
